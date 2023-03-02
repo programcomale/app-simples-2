@@ -1,2 +1,2 @@
 # app-simples-2
-aplicação back-and simples para uma sorveteria.
+aplicação back-and simples em Python para uma sorveteria.
